@@ -21,7 +21,14 @@
     { "id": 4, "name": "Зоофак", "url": "http://youstudynew.com/wp-content/uploads/2017/10/Agrarnyj-glavnaya.jpg" },
     { "id": 5, "name": "Главный", "url": "http://mw2.google.com/mw-panoramio/photos/medium/69721109.jpg" }
   ],
-  "profile": {
-    "name": "typicode"
+  "university": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_vert1.png/250px-Logo_vert1.png",
+    "title":"Кубанский государственный сельскохозяйственный институт",
+    "international_title":"Kuban State Agrarian University",
+    "Motto":"Традиции. Фундаментальность. Инновации",
+    "year":1922,
+    "students":35000,
+    "rector_name":"Трубилин Александр Иванович",
+    "rector_url":"https://kubsau.ru/upload/iblock/3c6/3c616404baeb8399df422cbccf72f1ff.jpg"
   }
 }
