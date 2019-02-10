@@ -14,6 +14,13 @@
     { "id": 4, "name": "Недогонова Т.А.", "url": "https://kubsau.ru/upload/staff/e9f/e9fe2b7e921c24b199b19e200cc42761.jpg" },
     { "id": 5, "name": "Кумратова А.М.", "url": "https://kubsau.ru/upload/resize_cache/staff/5fe/230_300_1/5fe18303402873e75e8ddb4f1cf75ad1.jpg" }
   ],
+  "corpus": [
+    { "id": 1, "name": "Электрофак", "url": "https://postupi.online/images/images823/10/704.jpg" },
+    { "id": 2, "name": "Эконом", "url": "https://pp.userapi.com/c9567/g19357971/a_2f2cbc0b.jpg?ava=1" },
+    { "id": 3, "name": "Дендрарий", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYOd1IYTLnKtZqGd4-OfzpGZOfurxgh6rjRr9vk6GYGSLc0_ZBw" },
+    { "id": 4, "name": "Зоофак", "url": "http://youstudynew.com/wp-content/uploads/2017/10/Agrarnyj-glavnaya.jpg" },
+    { "id": 5, "name": "Главный", "url": "http://mw2.google.com/mw-panoramio/photos/medium/69721109.jpg" }
+  ],
   "profile": {
     "name": "typicode"
   }
