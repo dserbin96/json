@@ -7,7 +7,7 @@
     { "id": 5, "teacher": "Ковалева К.А.","cabinet":"303эк","time":"17:45" },
     { "id": 6, "teacher": "Лаптев В.Н.","cabinet":"207эк","time":"15:30" }
   ],
-  "user": [
+  "users": [
     { "id": 1, "name": "Попок Л.Е.", "url": "https://kubsau.ru/upload/staff/9dc/9dc0ca7f483f11ab1385ea5014ed6176.jpg" },
     { "id": 2, "name": "Замотайлова Д.А.", "url": "https://kubsau.ru/upload/resize_cache/staff/b97/230_300_1/b97371e6274f9ec9fe5a988a2adc9e4e.jpg" },
     { "id": 3, "name": "Кондратьев В.Ю.", "url": "https://kubsau.ru/upload/resize_cache/staff/431/230_300_1/431815fd33f3ecbee25a9e3838e10051.jpg" },
