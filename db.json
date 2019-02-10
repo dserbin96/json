@@ -1,12 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "schedule": [
+    { "id": 1, "teacher": "Попок Л.Е.","cabinet":"203эк","time":"13:00" },
+    { "id": 2, "teacher": "Кузьмина Э.В.","cabinet":"205эк","time":"11:30" },
+    { "id": 3, "teacher": "Вострокнутов А.Е.","cabinet":"3эк","time":"08:00" },
+    { "id": 4, "teacher": "Гайдук Н.В.","cabinet":"7эк","time":"09:45" },
+    { "id": 5, "teacher": "Ковалева К.А.","cabinet":"303эк","time":"17:45" },
+    { "id": 6, "teacher": "Лаптев В.Н.","cabinet":"207эк","time":"15:30" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "teacher": [
+    { "id": 1, "name": "Попок Л.Е.", "url": "https://kubsau.ru/upload/staff/9dc/9dc0ca7f483f11ab1385ea5014ed6176.jpg" },
+    { "id": 2, "name": "Замотайлова Д.А.", "url": "https://kubsau.ru/upload/resize_cache/staff/b97/230_300_1/b97371e6274f9ec9fe5a988a2adc9e4e.jpg" },
+    { "id": 3, "name": "Кондратьев В.Ю.", "url": "https://kubsau.ru/upload/resize_cache/staff/431/230_300_1/431815fd33f3ecbee25a9e3838e10051.jpg" },
+    { "id": 4, "name": "Недогонова Т.А.", "url": "https://kubsau.ru/upload/staff/e9f/e9fe2b7e921c24b199b19e200cc42761.jpg" },
+    { "id": 5, "name": "Кумратова А.М.", "url": "https://kubsau.ru/upload/resize_cache/staff/5fe/230_300_1/5fe18303402873e75e8ddb4f1cf75ad1.jpg" }
   ],
   "profile": {
     "name": "typicode"
