@@ -21,7 +21,8 @@
     { "id": 4, "name": "Зоофак", "url": "http://youstudynew.com/wp-content/uploads/2017/10/Agrarnyj-glavnaya.jpg" },
     { "id": 5, "name": "Главный", "url": "http://mw2.google.com/mw-panoramio/photos/medium/69721109.jpg" }
   ],
-  "university": {
+  "object":{
+      "university": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_vert1.png/250px-Logo_vert1.png",
     "title":"Кубанский государственный сельскохозяйственный институт",
     "international_title":"Kuban State Agrarian University",
@@ -47,5 +48,6 @@
     "history":"Изначально это было опытное лесохозяйство Аграрного университета. Основал его профессор Иван Сергеевич Косенко в 1959 году.",
     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoE78-jgFywoXOWxmLTyhJycdS8UEQV1EB36ZkGbLgIX17HmK",
     "image_scientist":"https://ruspekh.ru/images/articles/41289/2017_06_23-019-194-001.jpg"
+  }
   }
 }
