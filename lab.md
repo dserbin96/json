@@ -9,3 +9,7 @@
  </p>
 
 1) В первом варианте нужно создать два фрагмента. В первом список с изображениями, во втором само изображение.
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1qw08nH7MDr4nlQc0xdcDboKO_2QpMGli"/>
+ </p>
