@@ -116,5 +116,5 @@ https://developer.android.com/training/volley/ (для запросов в се�
 
 5) https://my-json-server.typicode.com/dserbin96/json/users
  <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=17z5Or_13s_fE2a1DD6QilkKntsIw8fmI"/>
+  <img src="https://drive.google.com/uc?export=view&id=1x-IFKKLYrhpR2kFd_W2mj2LqKohNT6bQ"/>
  </p>
