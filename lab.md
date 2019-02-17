@@ -5,7 +5,7 @@
 взаимодействии с элементами котрого открывается второй с определенными значениями.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1NRc3tbKCl3vxTL-XsTitY_Sdz8M2Of-Y"/>
+  <img src="https://drive.google.com/uc?export=view&id=1Pgeq6eI8hEckWU8lhrylEWOWN2KPDz-e"/>
  </p>
 
 1) В первом варианте нужно создать два фрагмента. В первом список с изображениями, во втором само изображение.
