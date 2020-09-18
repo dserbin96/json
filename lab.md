@@ -78,7 +78,7 @@ http://developer.alexanderklimov.ru/android/views/spinner.php
   <img src="https://drive.google.com/uc?export=view&id=17z5Or_13s_fE2a1DD6QilkKntsIw8fmI"/>
  </p>
  
- 3) Network, подключение зависимостей, JSON
+# Network, подключение зависимостей, JSON
 В данной лабораторной работе происходят запросы в сеть и приходят данные в формате JSON. Необходимо рапарсить данные и показать на экране данные. Также для работы нужно добавить некотрые зависимости в Gradle для закачки сторонней библиотеки.
 Для начало нужно подключить в зависимости библиотеки
 https://developer.android.com/guide/topics/ui/layout/recyclerview (для работы со списком)
