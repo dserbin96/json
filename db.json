@@ -1,7 +1,13 @@
 {
   "profile": {
       "access_token":"JWT-qervwboeroqbeorbeybeqripeghiupegriuhpergiphughepueorbpjrbe",
-      "refresh_token":"JWT-ipbaer0ivrbithreptbjcgnspsdtstjvsyjvscchtknpwrthcerthvtey"
+      "refresh_token":"JWT-ipbaer0ivrbithreptbjcgnspsdtstjvsyjvscchtknpwrthcerthvtey",
+      "user":{
+           "id":111111000,
+           "email":"t@t.com",
+           "full_name":"Иванов Иван Иванович",
+           "gender":"male"
+        }
   },
   "schedule": [
     { "id": 1, "teacher": "Попок Л.Е.","cabinet":"203эк","time":"13:00" },
