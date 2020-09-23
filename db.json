@@ -1,4 +1,8 @@
 {
+  "profile": {
+      "access_token":"JWT-qervwboeroqbeorbeybeqripeghiupegriuhpergiphughepueorbpjrbe",
+      "refresh_token":"JWT-ipbaer0ivrbithreptbjcgnspsdtstjvsyjvscchtknpwrthcerthvtey"
+  },
   "schedule": [
     { "id": 1, "teacher": "Попок Л.Е.","cabinet":"203эк","time":"13:00" },
     { "id": 2, "teacher": "Кузьмина Э.В.","cabinet":"205эк","time":"11:30" },
@@ -49,9 +53,5 @@
       "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoE78-jgFywoXOWxmLTyhJycdS8UEQV1EB36ZkGbLgIX17HmK",
       "image_scientist":"https://ruspekh.ru/images/articles/41289/2017_06_23-019-194-001.jpg"
     }
-  },
-  "profile": {
-      "access_token":"JWT-qervwboeroqbeorbeybeqripeghiupegriuhpergiphughepueorbpjrbe",
-      "refresh_token":"JWT-ipbaer0ivrbithreptbjcgnspsdtstjvsyjvscchtknpwrthcerthvtey"
   }
 }
