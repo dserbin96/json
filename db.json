@@ -6,7 +6,7 @@
            "id":111111000,
            "email":"t@t.com",
            "full_name":"Иванов Иван Иванович",
-           "gender":male
+           "gender":"male"
         }
   },
   "schedule": [
