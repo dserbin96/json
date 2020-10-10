@@ -9,6 +9,15 @@
            "gender":"male"
         }
   },
+  "gender": {
+      "access_token":"JWT-qervwboeroqbeorbeybeqripeghiupegriuhpergiphughepueorbpjrbe",
+      "refresh_token":"JWT-ipbaer0ivrbithreptbjcgnspsdtstjvsyjvscchtknpwrthcerthvtey",
+      "user":{
+           "id":111111000,
+           "email":"t@t.com",
+           "full_name":"Иванов Иван Иванович"
+        }
+  },
   "schedule": [
     { "id": 1, "teacher": "Попок Л.Е.","cabinet":"203эк","time":"13:00" },
     { "id": 2, "teacher": "Кузьмина Э.В.","cabinet":"205эк","time":"11:30" },
