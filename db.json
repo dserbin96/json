@@ -9,7 +9,7 @@
            "gender":"male"
         }
   },
-  "gender": {
+  "auth": {
       "access_token":"JWT-qervwboeroqbeorbeybeqripeghiupegriuhpergiphughepueorbpjrbe",
       "refresh_token":"JWT-ipbaer0ivrbithreptbjcgnspsdtstjvsyjvscchtknpwrthcerthvtey",
       "user":{
